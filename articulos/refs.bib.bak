@@ -1,0 +1,447 @@
+% This file was created with JabRef 2.3.
+% Encoding: Cp1252
+
+@INPROCEEDINGS{ABD05,
+  author = {Enrique Alba and Pascal Bouvry and Bernab\'e Dorronsoro and Francisco
+	Luna and Antonio J. Nebro},
+  title = {A Cellular Multi-Objective Genetic Algorithm for Optimal Broadcasting
+	Strategy in Metropolitan MANETs},
+  booktitle = {Nature Inspired Distributed Computing (NIDISC) sessions of the International
+	Parallel and Distributed Processing Simposium (IPDPS) 2005 Workshop},
+  year = {2005},
+  pages = {192b},
+  address = {Denver, Colorado, USA},
+  month = {April},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INPROCEEDINGS{ACG07,
+  author = {E. Alba and A. Cervantes and J.A. G\'omez and P. Isasi and M.D. Jara\'iz
+	and C. Le\'on and C. Luque and F. Luna and G. Miranda and A.J. Nebro
+	and R. P\'erez and C. Segura},
+  title = {Metaheuristics approaches for optimal broadcasting design in metropolitan
+	MANETs},
+  booktitle = {Eurocast 2007},
+  year = {2007},
+  month = {February},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INCOLLECTION{ACL05,
+  author = {Enrique Alba and Francisco Chicano and Francisco Luna Gabriel Luque
+	and Antonio J. Nebro},
+  title = {{Advanced Evolutionary Algorithms for Training Neural Networks}},
+  booktitle = {Handbook of Bioinspired Algorithms and Applications},
+  year = {2005},
+  editor = {S. Olariu and A. Y. Zomaya},
+  pages = {453-467},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@ARTICLE{ACL05,
+  author = {Enrique Alba and Bernab\'e Dorronsor and Francisco Luna and Antonio
+	J. Nebro and Pascal Bouvry and Luc Hogieb},
+  title = {{A cellular multi-objective genetic algorithm for optimal broadcasting
+	strategy in metropolitan MANETs}},
+  journal = {Computer Communications},
+  year = {2007},
+  volume = {30},
+  pages = {685-697},
+  number = {4},
+  month = {February},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@ARTICLE{ALN04,
+  author = {Enrique Alba and Francisco Luna and Antonio J. Nebro},
+  title = {Parallel Heterogeneous Genetic Algorithms For Continuous Optimization},
+  journal = {Parallel Computing},
+  year = {2004},
+  volume = {30},
+  pages = {669-719},
+  number = {5-6},
+  month = {May/June},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INPROCEEDINGS{ALN05,
+  author = {Enrique Alba and Francisco Luna and Antonio J. Nebro},
+  title = {Parallel Heterogeneous Genetic Algorithms for Continuous Optimization},
+  booktitle = {IPDPS-NIDISC'03},
+  year = {2003},
+  pages = {147},
+  address = {Nize, France},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INCOLLECTION{AlbaNebro05,
+  author = {Enrique Alba and Antonio J. Nebro},
+  title = {{New Technologies in Parallelism}},
+  booktitle = {Parallel Metaheuristics},
+  publisher = {Wiley} # ',
+  year = {2005},
+  editor = {Enrique Alba},
+  pages = {63-78},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@ARTICLE{AlbaNebro04,
+  author = {Enrique Alba and Antonio J. Nebro},
+  title = {Solving Optimization Problems with Grid-Enabled Technologies},
+  journal = {{ERCIM} News},
+  year = {2004},
+  volume = {59},
+  pages = {53-54},
+  month = {September},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@ARTICLE{ANL04,
+  author = {Enrique Alba and Antonio J. Nebro and Francisco Luna},
+  title = {Advances in Parallel Heterogeneous Genetic Algorithms for Continuous
+	Optimization},
+  journal = {International Journal of Applied Mathematics and Computer Science},
+  year = {2004},
+  volume = {14},
+  pages = {101-117},
+  number = {3},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@ARTICLE{ANT02,
+  author = {Enrique Alba and Antonio J. Nebro and Jos\'e M. Troya},
+  title = {Heterogeneous Computing and Parallel Genetic Algorithms},
+  journal = {The Journal of Parallel and Distributed Computing},
+  year = {2002},
+  volume = {62},
+  pages = {1362-1385},
+  number = {9},
+  month = {September},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INPROCEEDINGS{DAL07,
+  author = {Bernab\'e Dorronsor and Daniel Arias and Francisco Luna and Antonio
+	J. Nebro and Enrique Alba},
+  title = {A Grid-Based Hybrid Cellular Genetic Algorithm for Very Large Scale
+	Instances of the CVRP},
+  booktitle = {2007 High Performance Computing \& Simulation Conference (HPCS 2007)},
+  year = {2007},
+  editor = {Waleed W. Smari},
+  pages = {759-765},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@TECHREPORT{DNL06,
+  author = {Juan J. Durillo and Antonio J. Nebro and Francisco Luna and Bernab\'e
+	Dorronsoro and Enrique Alba},
+  title = {{{jMetal}: A Java Framework for Developing Multi-Objective Optimization
+	Metaheuristics}},
+  institution = {Departamento de Lenguajes y Ciencias de la Computaci\'on, University
+	of M\'alaga},
+  year = {2006},
+  number = {ITI-2006-10},
+  address = {E.T.S.I. Inform\'atica, Campus de Teatinos},
+  month = {December},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INCOLLECTION{LAN05,
+  author = {Francisco Luna and Enrique Alba and Antonio J. Nebro},
+  title = {{Parallel Heterogenous Metaheuristics}},
+  booktitle = {Parallel Metaheuristics},
+  publisher = {Wiley} # ',
+  year = {2005},
+  editor = {Enrique Alba},
+  pages = {395-422},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INPROCEEDINGS{LAN07,
+  author = {Francisco Luna and Enrique Alba and Antonio J. Nebro and Salvador
+	Pedraza},
+  title = {Evolutionary Algorithms for Real-World Instances of the Automatic
+	Frequency Planning Problem in GSM Networks},
+  booktitle = {Seventh European Conference on Evolutionary Computation in Combinatorial
+	Optimization (EVOCOP 2007)},
+  year = {2007},
+  volume = {4446},
+  series = {LNCS},
+  pages = {108-120},
+  month = {April},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INPROCEEDINGS{LBA07,
+  author = {Francisco Luna and Christian Blum and Enrique Alba and Antonio J.
+	Nebro},
+  title = {ACO vs EAs for solving a real-world frequency assignment problem
+	in GSM networks},
+  booktitle = {GECCO '07: Proceedings of the 9th annual conference on Genetic and
+	evolutionary computation},
+  year = {2007},
+  pages = {94--101},
+  address = {New York, NY, USA},
+  publisher = {ACM Press},
+  doi = {http://doi.acm.org/10.1145/1276958.1276972},
+  isbn = {978-1-59593-697-4},
+  location = {London, England},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@TECHREPORT{LNA04,
+  author = {F. Luna and A.J. Nebro and E. Alba},
+  title = {{A Globus-Based Distributed Enumerative Search Algorithm for Multi-Objective
+	Optimization}},
+  institution = {Departamento de Lenguajes y Ciencias de la Computaci\'on, University
+	of M\'alaga},
+  year = {2004},
+  number = {ITI-2004-2},
+  address = {E.T.S.I. Inform\'atica, Campus de Teatinos},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INCOLLECTION{LNA06,
+  author = {Francisco Luna and Antonio J. Nebro and Enrique Alba},
+  title = {Parallel Evolutionary Multiobjective Optimization},
+  booktitle = {Parallel Evolutionary Computations},
+  publisher = {Springer},
+  year = {2006},
+  editor = {Nadia Nedjah and Luiza de Macedo and Enrique Alba},
+  volume = {22},
+  series = {Studies in Computational Intelligence},
+  chapter = {2},
+  pages = {33-56},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@ARTICLE{LNA06,
+  author = {Francisco Luna and Antonio J. Nebro and Enrique Alba},
+  title = {Observations in Using Grid-enabled Technologies for Solving Multi-objective
+	Optimization Problems},
+  journal = {Parallel Computing},
+  year = {2006},
+  volume = {32},
+  pages = {377-393},
+  number = {5-6},
+  month = {June},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INPROCEEDINGS{LND06,
+  author = {Francisco Luna and Antonio J. Nebro and B. Dorronsoro and Enrique
+	Alba and P. Bouvry and L. Hogie},
+  title = {Optimal Broadcasting in Metropolitan MANETs Using Multiobjective
+	Scatter Search},
+  booktitle = {Applications of Evolutionary Computing: EvoWorkshops 2006: EvoBIO,
+	EvoCOMNET, EvoHOT, EvoIASP, EvoINTERACTION, EvoMUSART, and EvoSTOC},
+  year = {2006},
+  editor = {Franz Rothlauf and J\¨urgen Branke and Stefano Cagnoni and Ernesto
+	Costa and Carlos Cotta and Rolf Drechsler and Evelyne Lutton and
+	Penousal Machado and Jason H. Moore and Juan Romero and George D.
+	Smith and Giovanni Squillero and Hideyuki Takagi},
+  volume = {3907},
+  series = {Lecture Notes in Computer Science},
+  pages = {255-266},
+  address = {Budapest, Hungary},
+  publisher = {Springer},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INCOLLECTION{NAL06,
+  author = {Antonio J. Nebro and Enrique Alba and Francisco Luna},
+  title = {Observations in Using Grid Technologies for Multi-Objective Optimization},
+  booktitle = {Engineering The Grid: Status and Perspective},
+  publisher = {American Scientific Publishers},
+  year = {2006},
+  editor = {{Beniamimo Di} Martino and Jack Dongarra and Adolfy Hoisie and Laurence
+	Tianruo Yang and Hans Zima},
+  chapter = {2},
+  pages = {27-39},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@ARTICLE{NAL07,
+  author = {Antonio J. Nebro and Enrique Alba and Francisco Luna},
+  title = {Multi-Objective Optimization using Grid Computing},
+  journal = {Soft Computing},
+  year = {2007},
+  volume = {11},
+  pages = {531--540},
+  number = {6},
+  address = {Berlin, Heidelberg},
+  doi = {http://dx.doi.org/10.1007/s00500-006-0096-0},
+  issn = {1432-7643},
+  owner = {antonio},
+  publisher = {Springer-Verlag},
+  timestamp = {2008.02.21}
+}
+
+@INPROCEEDINGS{NAL02,
+  author = {Antonio J. Nebro and Enrique Alba and Francisco Luna and Jos\'e M.
+	Troya},
+  title = {.NET as a Platform for Implementing Concurrent Objects},
+  booktitle = {Euro-Par 2002 Parallel Processing},
+  year = {2002},
+  address = {Paderborn, Germany},
+  month = {August},
+  optpages = {147},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INPROCEEDINGS{NAM07,
+  author = {Antonio J. Nebro and Enrique Alba and Guillermo Molina and Francisco
+	Chicano and Francisco Luna and Juan J. Durillo},
+  title = {Optimal antenna placement using a new multi-objective chc algorithm},
+  booktitle = {GECCO '07: Proceedings of the 9th annual conference on Genetic and
+	evolutionary computation},
+  year = {2007},
+  pages = {876--883},
+  address = {New York, NY, USA},
+  publisher = {ACM Press},
+  doi = {http://doi.acm.org/10.1145/1276958.1277128},
+  isbn = {978-1-59593-697-4},
+  location = {London, England},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INPROCEEDINGS{NDL07,
+  author = {Antonio J. Nebro and Juan J. Durillo and Francisco Luna and Bernab\'e
+	Dorronsoro and Enrique Alba},
+  title = {Design Issues in a Multiobjective Cellular Genetic Algorithm},
+  booktitle = {Evolutionary Multi-Criterion Optimization. 4th International Conference,
+	EMO 2007},
+  year = {2007},
+  editor = {S. Obayashi and K. Deb and C. Poloni and T. Hiroyasu and T. Murata},
+  volume = {4403},
+  series = {Lecture Notes in Computer Science},
+  pages = {126-140},
+  publisher = {Springer},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INPROCEEDINGS{NDL06,
+  author = {Antonio J. Nebro and Juan J. Durillo and Francisco Luna and Bernab\'e.
+	Dorronsoro and Enrique Alba},
+  title = {A Cellular Genetic Algorithm for Multiobjective Optimization},
+  booktitle = {Proceedings of the Workshop on Nature Inspired Cooperative Strategies
+	for Optimization (NICSO 2006)},
+  year = {2006},
+  editor = {David A. Pelta and Natalio Krasnogor},
+  pages = {25-36},
+  address = {Granada, Spain},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INPROCEEDINGS{NLA05,
+  author = {Antonio J. Nebro and Francisco Luna and Enrique Alba},
+  title = {New Ideas in Applying Scatter Search to Multiobjective Optimization},
+  booktitle = {Third International Conference on Evolutionary Multi\-Criterion Optimization,
+	EMO 2005},
+  year = {2005},
+  editor = {C.A. Coello and A. Hern\'{a}ndez and E. Zitler},
+  volume = {3410},
+  series = {Lecture Notes in Computer Science},
+  pages = {443-458},
+  publisher = {Springer},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@TECHREPORT{NLA06,
+  author = {Antonio J. Nebro and Francisco Luna and Enrique Alba and Andreas
+	Beham and Bernab\'e Dorronsoro},
+  title = {{{AbYSS}: Adapting Scatter Search for Multiobjective Optimization}},
+  institution = {Departamento de Lenguajes y Ciencias de la Computaci\'on, University
+	of M\'alaga},
+  year = {2006},
+  number = {ITI-2006-2},
+  address = {E.T.S.I. Inform\'atica, Campus de Teatinos},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@TECHREPORT{NLA06,
+  author = {Antonio J. Nebro and Francisco Luna and Enrique Alba and Andreas
+	Beham and Bernab\'e Dorronsoro},
+  title = {{{AbYSS}: Adapting Scatter Search for Multiobjective Optimization}},
+  institution = {Departamento de Lenguajes y Ciencias de la Computaci\'on, University
+	of M\'alaga},
+  year = {2006},
+  number = {ITI-2006-2},
+  address = {E.T.S.I. Inform\'atica, Campus de Teatinos}
+}
+
+@UNPUBLISHED{NAL07,
+  author = {Antonio J. Nebro and Francisco Luna and Enrique Alba and Bernab\'e
+	Dorronsoro and Juan J. Durillo and Andreas Beham},
+  title = {{AbYSS: Adapting Scatter Search to Multiobjective Optimization}},
+  note = {Accepted for publication in IEEE Transactions on Evolutionary Computation},
+  month = July,
+  year = {2007},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INCOLLECTION{NLT05,
+  author = {Antonio J. Nebro and Francisco Luna and E-G. Talbi and Enrique Alba},
+  title = {{Parallel Multiobjective Optimization}},
+  booktitle = {Parallel Metaheuristics},
+  publisher = {Wiley},
+  year = {2005},
+  editor = {Enrique Alba},
+  pages = {371-394},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@ARTICLE{NPT99,
+  author = {Antonio J. Nebro and Ernesto Pimentel and Jos\'e M. Troya},
+  title = {Distributed Objects: An Approach based on Replication and Migration},
+  journal = {The Journal of Object-Oriented Programming},
+  year = {1999},
+  volume = {12},
+  pages = {22-27},
+  number = {1},
+  month = {March/April},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+
+@INPROCEEDINGS{NPT98,
+  author = {Antonio J. Nebro and Ernesto Pimentel and and Jos\'e M. Troya},
+  title = {Evaluating a Multithreaded Runtime System for Concurrent Object-Oriented
+	Languages},
+  booktitle = {Second International Symposium, ISCOPE'98},
+  year = {1998},
+  address = {Santa Fe, NM, USA},
+  month = {December},
+  optpages = {147},
+  owner = {antonio},
+  timestamp = {2008.02.21}
+}
+

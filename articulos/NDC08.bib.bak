@@ -1,0 +1,18 @@
+% This file was created with JabRef 2.3.1.
+% Encoding: MacRoman
+
+@INPROCEEDINGS{NDC08,
+  author = {Antonio J. Nebro and Juan J. Durillo and C.A. {Coello Coello} and
+	Francisco Luna and Enrique Alba},
+  title = {Design Issues in A Study of Convergence Speed in Multi-Objective
+	Metaheuristics},
+  booktitle = {Parallel Problem Solving from Nature - PPSN X},
+  year = {2008},
+  editor = {G. Rudolph and T. Jensen and S. Lucas and C. Poloni and N. Beume},
+  volume = {5199},
+  series = {Lecture Notes in Computer Science},
+  pages = {763-772},
+  publisher = {Springer},
+  doi = {10.1007/978-3-540-87700-4_76}
+}
+

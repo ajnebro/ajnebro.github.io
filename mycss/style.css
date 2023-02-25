@@ -1,0 +1,186 @@
+.centered {
+    display: block;
+    margin: 0 auto;
+}
+
+.thumbnail {
+	-webkit-transition: 0.1s all;
+	-moz-transition: 0.1s all;
+	-ms-transition: 0.1s all;
+	transition: 0.1s all;
+}
+
+.thumbnail:hover {
+ -webkit-transform: scale(0.97) perspective(400px) rotateY(0deg) rotateX(0deg);
+	-moz-transform: scale(0.97) perspective(400px) rotateY(0deg) rotateX(0deg);
+	-ms-transform: scale(0.97) perspective(400px) rotateY(0deg) rotateX(0deg);
+	transform: scale(0.97) perspective(400px) rotateY(0deg) rotateX(0deg);
+}
+
+#footer {
+    padding-bottom: 5px;
+}
+
+#me {
+    height: 130px;
+    position: relative;
+    float: right;
+}
+
+#umaLogo {
+    padding: 10px;
+    padding-bottom: 1px;
+    height: 170px ;
+}
+
+#riatecLogo {
+    height: 60px ;
+   /* width: 342px;*/
+    transform: perspective( 700px ) rotateY( -35deg );
+    transition: transform .25s ease;
+    float: right;
+    margin-right: 160px;
+}
+
+#riatecLogo:hover {
+    height: 60px ;
+  /*  width: 342px;*/
+    transform: perspective( 700px ) rotateY( 0deg );
+}
+
+
+.jmetalLogo{
+    /*width: 100px ;*/
+}
+
+.jmetalLogo:hover{
+     height: 100px ;
+     -webkit-transform: scale(0.95) perspective(400px) rotateY(0deg) rotateX(0deg);
+     -moz-transform: scale(0.95) perspective(400px) rotateY(0deg) rotateX(0deg);
+     -ms-transform: scale(0.95) perspective(400px) rotateY(0deg) rotateX(0deg);
+     transform: scale(2.95) perspective(400px) rotateY(0deg) rotateX(0deg);
+     z-index: 20;
+ }
+
+#rightColumn {
+  /*border-left: solid 1px;*/
+}
+
+
+.largeImg {
+    height: 390px;
+    padding-top: 30px ;
+    padding-bottom: 30px;
+}
+
+body{
+    background-color: black;
+}
+
+.container {
+    background-color: white;
+}
+
+.nav-pills {
+    background-color: #000000;
+}
+
+.metro-container {
+    /*background-color: orange ;*/
+    height: 115px ;
+    width: 442px;
+
+    float: right;
+    margin-top: 20px;
+    margin-right: -80px ;
+}
+
+.metro-tile {
+    float: left ;
+    background-color: #D8512B;
+    border-color: #DC6241;
+    width: 85px;
+    height: 85px;
+    padding: 5px;
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 12px;
+    border-width: 3px;
+    border-style: solid;
+    cursor: default;
+    -webkit-transition: 0.1s all;
+    -moz-transition: 0.1s all;
+    -ms-transition: 0.1s all;
+    transition: 0.1s all;
+    margin-left:5px;
+    margin-top: 5px;
+}
+
+.metro-tile-tweet {
+    /*background: url(https://cssbox.googlecode.com/svn/demo/Windows8MetroTiles/img/Facebook.png);*/
+    background: url("../images/Twitter.png");
+    background-color: #2878EC;
+    border-color: #2878EC;
+    background-repeat:no-repeat;
+
+    transform: perspective( 700px ) rotateY( 35deg );
+    transition: transform .25s ease;
+}
+
+.metro-tile-facebook {
+    /*background: url(https://cssbox.googlecode.com/svn/demo/Windows8MetroTiles/img/Facebook.png);*/
+    background: url("../images/Facebook.png");
+    background-repeat:no-repeat;
+
+    background-color: #3B5998;
+    border-color: #3B5998;
+
+    transform: perspective( 700px ) rotateY( 35deg );
+    transition: transform .25s ease;
+}
+
+.metro-tile-linkedin {
+    /*background: url(https://cssbox.googlecode.com/svn/demo/Windows8MetroTiles/img/Facebook.png);*/
+    background: url("../images/linkedin.jpg");
+
+    background-color: #4875B4;
+    border-color: #4875B4;
+    transform: perspective( 700px ) rotateY( 35deg );
+    transition: transform .25s ease;
+}
+
+.metro-tile-google {
+    /*background: url(https://cssbox.googlecode.com/svn/demo/Windows8MetroTiles/img/Facebook.png);*/
+    background: url("../images/googleplus.png");
+
+    background-color: #C63D2D;
+    border-color: #C63D2D;
+
+    transform: perspective( 700px ) rotateY( 35deg );
+    transition: transform .25s ease;
+}
+
+
+div.metro-tile:hover {
+    -webkit-transform: scale(0.97) perspective(400px) rotateY(0deg) rotateX(0deg);
+    -moz-transform: scale(0.97) perspective(400px) rotateY(0deg) rotateX(0deg);
+    -ms-transform: scale(0.97) perspective(400px) rotateY(0deg) rotateX(0deg);
+    transform: scale(0.97) perspective(400px) rotateY(0deg) rotateX(0deg);
+    border-width: 3px;
+    border-style:solid;
+}
+
+.color-grey {
+    background-color: #EBEBEB;
+}
+
+.color-journals {
+	background-color: #F0F8FF ;
+}
+.color-bookChapters {
+	background-color: #CCFFFF ;
+}
+
+.color-conferences {
+	background-color: #FFFBD0 ;
+}
